@@ -3,8 +3,19 @@ This RTL Design of the Project was completed in 2017 and verification testbench 
 
 Router 1x3 Block Diagram: 
 
+<img width="843" height="453" alt="image" src="https://github.com/user-attachments/assets/6cfcfad7-9e67-45a4-9695-604cc98e6b91" />
 
 <img width="1081" height="601" alt="router" src="https://github.com/user-attachments/assets/c5e16a68-906b-49fa-a5f6-321fd32dc3c6" />
+
+FSM:- 
+
+<img width="948" height="516" alt="image" src="https://github.com/user-attachments/assets/d84e5e08-d1a5-477f-bf68-25e8184582dc" />
+
+FIFO:-
+
+<img width="840" height="449" alt="image" src="https://github.com/user-attachments/assets/9105a8be-a9d9-4630-b903-078e0108c7ce" />
+
+
 
 
 Functionality:
